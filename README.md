@@ -1,4 +1,4 @@
-# Predicting Movie Profitability
+# Predicting Movie Profitability With Machine Learning
 
 Can a film's profitability be predicted from things we know before it comes out? This project uses three machine learning models to find out, using budget, director track record, genre, runtime and critical reception (IMDb score and award nominations).
 
