@@ -4,6 +4,8 @@ Can a film's profitability be predicted from things we know before it comes out?
 
 A film counts as **profitable** if its box office is greater than its budget.
 
+<img width="2652" height="2042" alt="Predicting Movie Profitability from Budget" src="https://github.com/user-attachments/assets/fbfbbd54-6a94-44f9-b3ac-3e563244fb9f" />
+
 ## Dataset
 [Movies (IMDb, Earnings and more)](https://www.kaggle.com/datasets/delfinaoliva/movies) by Delfina Oliva on Kaggle: 3,905 films from 1929 to 2016 with 12 variables after cleaning. The data isn't included here, so download it from the link above and save it as `movies_data_new.csv` next to the notebook.
 
